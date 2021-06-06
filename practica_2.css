@@ -1,0 +1,23 @@
+.title{
+  text-align: center;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium",
+  "Arial Narrow", Arial, sans-serif;
+}
+
+iframe{
+  width: 850px;
+  height: 100vh;
+  margin: auto;
+  display: block;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background:url("imagenes/fondo_5.jpg");
+    background-size: cover;
+    background-position: auto;
+}
